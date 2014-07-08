@@ -32,7 +32,7 @@ job do
 
   # print each line to show the output
   step 'print each line' do |last_response|
-    last_response.each do |line
+    last_response.each do |line|
       puts line
     end
   end
