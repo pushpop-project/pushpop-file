@@ -10,7 +10,7 @@ Add the `pushpop-file` gem to your Gemfile:
 gem 'pushpop-file'
 ```
 
-or install it:
+or install it directly:
 
 ``` shell
 $ gem install pushpop-file
